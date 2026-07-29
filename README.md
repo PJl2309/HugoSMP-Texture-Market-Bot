@@ -1,1 +1,0 @@
-# HugoSMP-Texture-Market-Bot
